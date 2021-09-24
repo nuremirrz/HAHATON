@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Grey+Qo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@400;600;700&display=swap');
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -11,6 +15,412 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-*{
-  background-color: rgb(255, 225, 161);
+
+/* main start */
+.main {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
 }
+/* .left-sidebar {
+  width: 20%;
+
+} */
+.content{ 
+  width: 100%; 
+} 
+.content-block{ 
+  display: flex; 
+  flex-wrap: wrap; 
+  align-items: center;
+}
+ .top-bar {
+    background: #f7f7f7;
+    position: fixed;
+    top: 61px;
+    border-bottom: 1px solid #e5e5e5;
+    width: 100%;
+    z-index: 3;
+    text-align: center;
+    opacity: 0;
+    visibility: hidden;
+    font-size: .75rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    transition: .3s ease;
+    line-height: 1;
+    padding: 0 20px .09rem;
+}
+
+.top-bar.top-bar--fixed {
+    opacity: 1;
+    visibility: visible
+}
+
+.big--img{
+  width: 1230px;
+  height: 720px;
+  margin-left: 0;
+  margin-top: 3%;
+  padding-left: 0%;
+}
+
+.big-img{
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.title{
+    -webkit-text-size-adjust: 100%;
+    font-family: "Sohne",Arial,sans-serif;
+    font-weight: 400;
+    line-height: 1.41;
+    letter-spacing: .05em;
+    color: #181818;
+    -webkit-font-smoothing: antialiased;
+    font-size: .75rem;
+    box-sizing: border-box;
+    margin-bottom: 26px;
+    margin-top: 80px;
+
+}
+
+.title h2 {
+    font-family: "Financier Display",serif;
+    font-weight: 500;
+    letter-spacing: normal;
+    margin: 0;
+    font-size: 1.5rem;
+    line-height: 1;
+}
+
+
+.img1, .img2, .img3{
+  width: 400px;
+  height: 400px;
+  margin-right: 15px;
+  cursor: pointer;
+}
+
+ .swiper-wrapper{
+  display: flex;
+  margin-left: 0;
+}
+
+h3{
+  font-size: .75rem;
+    letter-spacing: .05em;
+    line-height: 1.41;
+    margin: 0;
+}
+
+.new-balance{
+  margin-top: 10%;
+    margin-bottom: 10px;
+    border: 1px solid #e5e5e5;
+    display: grid;
+    flex-direction: row;
+
+}
+
+.nb-img{
+  width:700px;
+  height:700px
+}
+
+.module-email__content {
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    width: 50%;
+   
+}
+
+.image-square {
+    display: flex;
+    padding-top: 0px;
+}
+
+.bot-caption, .top-caption {
+  letter-spacing: .15em;
+    text-transform: uppercase;
+    font-size: .625rem;
+    display: block;
+    margin-bottom: 7px;
+}
+
+.mid-caption{
+  font-family: "Financier Display",serif;
+    font-weight: 350px;
+    letter-spacing: normal;
+    margin: 0;
+    font-size: 1.625rem;
+}
+/* main end */
+/* table start */
+
+
+/* add table start */
+.inputs-add{
+  display:flex;
+  justify-content: center;
+  margin: 20px 20px;
+}
+.addprod-inp{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  
+}
+.form-add{
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: center;  
+  margin: 15px;
+  padding: 10px;
+  border: 3px solid black;  
+  text-align: center;
+}
+.add-btn{
+  display: flex;
+  justify-content: center;
+  margin:20px;
+}
+.fav-icon{
+  display: flex;
+  justify-content: center;
+}
+/* add table end */
+/*modal start*/
+.modal {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    background: rgba(0, 0, 0, .8);
+    display: flex;
+    justify-content: center;   
+    
+}
+
+.modal-body {
+  display: flex;
+  margin-top: 50px;
+  width: 600px;
+  height: 420px;
+  background: #e9e7e7;
+  text-align: center;
+  justify-content: center;
+  margin: 100px;
+  border: black solid 3px ;
+  border-radius: 10%;
+  
+}
+
+.form-btn{
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 2px;
+}
+
+.form-btn Button{
+  font-size: 16px;
+  margin-right: 5px;
+  cursor: pointer;
+  border: 1px solid black;
+  margin-bottom: 5px;
+}
+.modal-body form{
+  
+}
+.form-inp{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  
+}
+.save-btn{
+  margin-top: 10px;
+  
+}
+.edit{
+  display: flex;
+  justify-content: center;
+  
+}
+/*modal end*/
+/* navbarstart   */
+.adem{
+  color: black;
+  margin-left: 400px;
+}
+#h, #h2, #h3{
+  display: flex;
+  justify-content: center;
+  font-size: 3em;
+  font-family: 'Gemunu Libre';
+}
+.shopcart, .account, .like {
+  color: rgb(167, 157, 157) ;
+} 
+.shopcart{
+  color:gray;
+}
+/* navbarend */
+/* card start */
+.cartochka{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 700px;
+}
+/* card end */
+/* table end */
+/* cart start */
+.cart-table{
+  border: 3px solid black;  
+}
+.carttable-down{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center; 
+}
+
+
+.cartunder-table{
+  margin-bottom: 3px;
+}
+#total-h{
+  margin-left: 10px;
+}
+.cart-input{
+  width: 150px;
+  height: 30px;
+  border: 2px solid black;
+  border-radius: 2%;
+}
+/* cart end */
+/* PayPage  start*/
+#PaymentForm{   
+  margin:auto;
+  padding: auto;
+  border: 10px solid gray;
+  border-radius:10%;
+  background-color: gray;
+  width: 600px;
+  height: 500px;
+}
+.inpForm{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: rgb(247, 236, 94);
+}
+
+.creditcard{  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin:auto;
+  border: 3px solid gray;
+  border-radius: 3%;
+  height: 30px;
+  width: 300px;
+  background-color: rgb(250, 244, 161);
+  color:black;
+} 
+.creditzag{
+  text-align: center;
+  font-family: "Noto Serif";
+  color:rgb(247, 236, 94);
+}
+.pay-btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  width: 300px;
+  height: 50px;
+  border: 3px solid black;
+  border-radius: 3%;
+  background-color: rgb(167, 157, 157);
+
+}
+
+/* PayPage end */
+/* pagination start */
+.pagin-li{
+  list-style-type: none;
+  display: inline;
+  justify-content: center;
+  margin-top: 10px;
+  margin-right: 15px;
+  border: 2px solid rgb(161, 161, 161);
+  
+}
+/* pagination end */
+/* adaptive */
+  @media screen and (max-width:900px) {
+    .modal-body {
+      display: flex;
+      justify-content: center;
+      width: 600px;
+      height: 600px;
+      
+      
+    }
+  }
+/* cart page start*/
+.cart-title{
+  font-family: "Gemunu Libre";
+  display: flex;
+  justify-content: center;
+  font-size: 2em;  
+}
+/* cart page end */
+/* registration  start*/
+.signup-cont{
+  background-color: #fffde7;
+  border: 1px solid #fbc02d;
+  padding: 15px;
+}
+
+/* registration end  */
+.uniform{
+  position: absolute;
+    top: 30%;
+    left: 10%;
+    color: white;
+}
+
+.uniform h2{
+  font-family: "Financier Display",serif;
+  font-weight: 350px;
+    letter-spacing: normal;
+    margin: 0;
+    font-size: 2rem;
+}
+  @media screen and (max-width:900px) {
+    .product-content {
+      display: flex;
+      justify-content: center;
+      
+    }
+  }  
+  @media screen and (max-width:1000px) {
+    .form-add{
+      display: flex;
+      flex-direction: column;
+      border-radius: 10%;
+    }
+  }
+    /* zapas #56433D */

@@ -1,3 +1,402 @@
 {
-    "products": []
+  "products": [
+    {
+      "title": "ALD / New Era Yankees Hat",
+      "type": "Headwear",
+      "color": "Black",
+      "description": "• Black fitted hat • Green undervisor • New Era 59Fifty • Low-profile silhouette • Embroidered Yankees logo at center-front • Embroidered Aimé Leon Dore logo on side panel • 100% Wool • Made in Vietnam",
+      "price": "123",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/AimeLeonDore603695b2d94737603695b2d95fe.53629429603695b2d95fe_3200x.jpg?v=1631744198",
+      "material": "Wool",
+      "date": "22.06.2021",
+      "id": 18
+    },
+    {
+      "title": "ALD / New Era Yankees Hat",
+      "type": "Headwear",
+      "color": "Green",
+      "description": "• Green fitted hat • Grey undervisor • New Era 59Fifty • Low-profile silhouette • Embroidered Yankees logo at center-front • Embroidered Aimé Leon Dore logo on side panel • 100% Polyester • Made in Vietnam",
+      "price": "5700",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/AimeLeonDore603695b2f0da39603695b2f0f1c.03435214603695b2f0f1c_3200x.jpg?v=1631744187",
+      "material": "Wool",
+      "date": "22.06.2021",
+      "id": 19
+    },
+    {
+      "title": "ALD / New Era Yankees Hat",
+      "type": "Headwear",
+      "color": "Navy",
+      "description": "• Navy fitted hat • Grey undervisor • New Era 59Fifty • Low-profile silhouette • Embroidered Yankees logo at center-front • Embroidered Aimé Leon Dore logo on side panel • 100% Wool • Made in Vietnam",
+      "price": "5700",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/AimeLeonDore603695b312bbe7603695b312d13.68031554603695b312d13_3200x.jpg?v=1631744193",
+      "material": "Wool",
+      "date": "22.06.2021",
+      "id": 20
+    },
+    {
+      "title": "ALD / New Era Mets Hat KGS‌5,700",
+      "type": "Headwear",
+      "color": "Blue",
+      "description": "• Blue fitted hat • Green undervisor • New Era 59Fifty • Low-profile silhouette • Embroidered Yankees logo at center-front • Embroidered Aimé Leon Dore logo on side panel • 100% Wool • Made in Vietnam",
+      "price": "4500",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/AimeLeonDore6036958d0138d66036958d01523.135971496036958d01523_3200x.jpg?v=1631744378",
+      "material": "Wool",
+      "date": "28.07.2021",
+      "id": 21
+    },
+    {
+      "title": "ALD / New Era Mets Hat KGS‌5,700",
+      "type": "Headwear",
+      "color": "Green",
+      "description": "• Green fitted hat • Grey undervisor • New Era 59Fifty • Low-profile silhouette • Embroidered Mets logo at center-front • Embroidered Aimé Leon Dore logo on side panel • 100% Polyester • Made in Vietnam",
+      "price": "4500",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/AimeLeonDore6036958cdc07986036958cdc268.143114896036958cdc268_3200x.jpg?v=1631744369",
+      "material": "Wool",
+      "date": "28.07.2021",
+      "id": 22
+    },
+    {
+      "title": "ALD / New Era Mets Hat KGS‌5,700",
+      "type": "Headwear",
+      "color": "Black",
+      "description": "• Black fitted hat • Green undervisor • New Era 59Fifty • Low-profile silhouette • Embroidered Mets logo at center-front • Embroidered Aimé Leon Dore logo on side panel • 100% Wool • Made in Vietnam",
+      "price": "4500",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/AimeLeonDore6036958cbf08916036958cbf259.569298426036958cbf259_3200x.jpg?v=1631744373",
+      "material": "Wool",
+      "date": "28.07.2021",
+      "id": 23
+    },
+    {
+      "title": "ALD / New Era Dodgers Hat",
+      "type": "Headwear",
+      "color": "Black",
+      "description": "• Black fitted hat • Grey undervisor • New Era 59Fifty • Low-profile silhouette • Embroidered Dodgers logo at center-front • Embroidered Aimé Leon Dore logo on side panel • 100% Wool • Made in China",
+      "price": "6300",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/3.2_3200x.jpg?v=1631127910",
+      "material": "Wool",
+      "date": "25.06.2021",
+      "id": 24
+    },
+    {
+      "title": "ALD / New Era Dodgers Hat",
+      "type": "Headwear",
+      "color": "Blue",
+      "description": "• Blue fitted hat • Grey undervisor • New Era 59Fifty • Low-profile silhouette • Embroidered Dodgers logo at center-front • Embroidered Aimé Leon Dore logo on side panel • 100% Wool • Made in China",
+      "price": "6300",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/4.2_3200x.jpg?v=1631128073",
+      "material": "Wool",
+      "date": "25.06.2021",
+      "id": 25
+    },
+    {
+      "title": "ALD / New Era Dodgers Hat",
+      "type": "Headwear",
+      "color": "Green",
+      "description": "• Green fitted hat • Grey undervisor • New Era 59Fifty • Low-profile silhouette • Embroidered Dodgers logo at center-front • Embroidered Aimé Leon Dore logo on side panel • 100% Polyester • Made in China",
+      "price": "6300",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/2.2_3200x.jpg?v=1631128047",
+      "material": "Wool",
+      "date": "25.06.2021",
+      "id": 26
+    },
+    {
+      "title": "Chamois Bucket Hat",
+      "type": "Headwear",
+      "color": "White",
+      "description": "• White chamois bucket hat • 2-panel construction • Fitted • Banded crown • Zigzag stitching at brim • Features a branded loop label • 100% Cotton • Hand wash • Made in China",
+      "price": "5250",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/99999copy_3200x.jpg?v=1630011647",
+      "material": "Cotton",
+      "date": "05.08.2021",
+      "id": 27
+    },
+    {
+      "title": "Chamois Bucket Hat",
+      "type": "Headwear",
+      "color": "Red",
+      "description": "• Red chamois bucket hat • 2-panel construction • Fitted • Banded crown • Zigzag stitching at brim • Features a branded loop label • 100% Cotton • Hand wash • Made in China",
+      "price": "5250",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/8888copy_3200x.jpg?v=1630011664",
+      "material": "Cotton",
+      "date": "05.08.2021",
+      "id": 28
+    },
+    {
+      "title": "Chamois Bucket Hat",
+      "type": "Headwear",
+      "color": "Navy",
+      "description": "• Navy chamois bucket hat • 2-panel construction • Fitted • Banded crown • Zigzag stitching at brim • Features a branded loop label • 100% Cotton • Hand wash • Made in China",
+      "price": "5250",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/77777copy_3200x.jpg?v=1630011675",
+      "material": "Cotton",
+      "date": "05.08.2021",
+      "id": 29
+    },
+    {
+      "title": "Waffle Knit Beanie",
+      "type": "Headwear",
+      "color": "Black",
+      "description": "• Black beanie • Woven Unisphere patch • 100% Acrylic • Hand wash • Made in USA",
+      "price": "5400",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/fc1b16194fa5f57eeb4b70622a3b724f_3200x.jpg?v=1630093654",
+      "material": "Acrylic",
+      "date": "20.09.2021",
+      "id": 30
+    },
+    {
+      "title": "Waffle Knit Beanie",
+      "type": "Headwear",
+      "color": "Grey",
+      "description": "• Grey beanie • Woven Unisphere patch • 100% Acrylic • Hand wash • Made in USA",
+      "price": "5400",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/5_2864dbab-4af2-4250-b3c8-0a9eb49234dc_3200x.jpg?v=1630093712",
+      "material": "Acrylic",
+      "date": "20.09.2021",
+      "id": 31
+    },
+    {
+      "title": "Waffle Knit Beanie",
+      "type": "Headwear",
+      "color": "Green",
+      "description": "• Green beanie • Woven Unisphere patch • 100% Acrylic • Hand wash • Made in USA",
+      "price": "5400",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/4_c20de7d2-db6e-4c5d-963a-324908a53ff0_3200x.jpg?v=1630093732",
+      "material": "Acrylic",
+      "date": "20.09.2021",
+      "id": 32
+    },
+    {
+      "title": "Waffle Knit Beanie",
+      "type": "Headwear",
+      "color": "Yellow",
+      "description": "• Yellow beanie • Woven Unisphere patch • 100% Acrylic • Hand wash • Made in USA",
+      "price": "5400",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/2_fa6bd808-3f1d-46bd-bfbe-6e530a99ffc6_3200x.jpg?v=1630093771",
+      "material": "Acrylic",
+      "date": "20.09.2021",
+      "id": 33
+    },
+    {
+      "title": "Waffle Knit Beanie",
+      "type": "Headwear",
+      "color": "Purple",
+      "description": "• Purple beanie • Woven Unisphere patch • 100% Acrylic • Hand wash • Made in USA",
+      "price": "5400",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/3_f1de1260-ab8f-43f5-b002-6f6e9a6bd0f7_3200x.jpg?v=1630093819",
+      "material": "Acrylic",
+      "date": "20.09.2021",
+      "id": 34
+    },
+    {
+      "title": "ALD Uniform Crewneck Sweatshirt",
+      "type": "Sweatshirt",
+      "color": "Grey",
+      "description": "• Grey crewneck sweatshirt • 20oz French Terry fabric • Embroidered block logo at center front • Elasticized sleeve cuffs & hem • Ribbed collar & side panels • 100% Cotton • Machine wash • Made in Canada",
+      "price": "14450",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/AimeLeonDore6138e4351eb7e76138e4351edf1.103710856138e4351edf1_3200x.jpg?v=1631807573",
+      "material": "Cotton",
+      "date": "10.08.2021",
+      "id": 35
+    },
+    {
+      "title": "ALD Uniform Crewneck Sweatshirt",
+      "type": "Sweatshirt",
+      "color": "Green",
+      "description": "• Green crewneck sweatshirt • 20oz French Terry fabric • Embroidered block logo at center front • Elasticized sleeve cuffs & hem • Ribbed collar & side panels • 100% Cotton • Machine wash • Made in Canada",
+      "price": "14450",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/AimeLeonDore6138e434e89b716138e434e8cf9.685204396138e434e8cf9_3200x.jpg?v=1631119316",
+      "material": "Cotton",
+      "date": "10.08.2021",
+      "id": 36
+    },
+    {
+      "title": "ALD Uniform Crewneck Sweatshirt",
+      "type": "Sweatshirt",
+      "color": "Black",
+      "description": "• Black crewneck sweatshirt • 20oz French Terry fabric • Embroidered block logo at center front • Elasticized sleeve cuffs & hem • Ribbed collar & side panels • 100% Cotton • Machine wash • Made in Canada",
+      "price": "14450",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/AimeLeonDore6138e4354334d16138e4354358a.479776846138e4354358a_3200x.jpg?v=1631807597",
+      "material": "Cotton",
+      "date": "10.08.2021",
+      "id": 37
+    },
+    {
+      "title": "ALD Uniform Crewneck Sweatshirt",
+      "type": "Sweatshirt",
+      "color": "Oatmeal",
+      "description": "• Oatmeal crewneck sweatshirt • 20oz French Terry fabric • Embroidered block logo at center front • Elasticized sleeve cuffs & hem • Ribbed collar & side panels • 100% Cotton • Machine wash • Made in Canada",
+      "price": "14450",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/AimeLeonDore6138e43563f9236138e43564222.081516826138e43564222_3200x.jpg?v=1631807611",
+      "material": "Cotton",
+      "date": "10.08.2021",
+      "id": 38
+    },
+    {
+      "title": "ALD Uniform Crewneck Sweatshirt",
+      "type": "Sweatshirt",
+      "color": "Red",
+      "description": "• Red crewneck sweatshirt • 20oz French Terry fabric • Embroidered block logo at center front • Elasticized sleeve cuffs & hem • Ribbed collar & side panels • 100% Cotton • Machine wash • Made in Canada",
+      "price": "14450",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/AimeLeonDore6138e4359972d36138e4359997d.103739696138e4359997d_3200x.jpg?v=1631119332",
+      "material": "Cotton",
+      "date": "10.08.2021",
+      "id": 39
+    },
+    {
+      "title": "ALD Uniform Crewneck Sweatshirt",
+      "type": "Sweatshirt",
+      "color": "Navy",
+      "description": "• Navy crewneck sweatshirt • 20oz French Terry fabric • Embroidered block logo at center front • Elasticized sleeve cuffs & hem • Ribbed collar & side panels • 100% Cotton • Machine wash • Made in Canada",
+      "price": "14450",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/AimeLeonDore6138e435b465b96138e435b499f.923351226138e435b499f_3200x.jpg?v=1631807623",
+      "material": "Cotton",
+      "date": "10.08.2021",
+      "id": 40
+    },
+    {
+      "title": "Deep Pile Crewneck Sweatshirt",
+      "type": "Sweatshirt",
+      "color": "Orange",
+      "description": "• Orange crewneck sweatshirt • Silicone patch on sleeve • 100% Polyester • Machine wash • Made in China",
+      "price": "14450",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/43_8bf37e9f-833f-4070-bdae-c0c498955490_3200x.jpg?v=1629903181",
+      "material": "Cotton",
+      "date": "10.08.2021",
+      "id": 41
+    },
+    {
+      "title": "Deep Pile Crewneck Sweatshirt",
+      "type": "Sweatshirt",
+      "color": "Navy",
+      "description": "• Navy crewneck sweatshirt • Silicone patch on sleeve • 100% Polyester • Machine wash • Made in China",
+      "price": "14450",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/42_e183dfcc-85ca-432e-9d41-4ad52e1e13e2_3200x.jpg?v=1629913829",
+      "material": "Polyester",
+      "date": "10.07.2021",
+      "id": 42
+    },
+    {
+      "title": "Deep Pile Crewneck Sweatshirt",
+      "type": "Sweatshirt",
+      "color": "Green",
+      "description": "• Green crewneck sweatshirt • Silicone patch on sleeve • 100% Polyester • Machine wash • Made in China",
+      "price": "14450",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/40_5bc22a1e-ba2d-4081-a683-fe87ea6e018d_3200x.jpg?v=1630091679",
+      "material": "Polyester",
+      "date": "17.08.2021",
+      "id": 43
+    },
+    {
+      "title": "Deep Pile Crewneck Sweatshirt",
+      "type": "Sweatshirt",
+      "color": "Black",
+      "description": "• Black crewneck sweatshirt • Silicone patch on sleeve • 100% Polyester • Machine wash • Made in China",
+      "price": "14450",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/41_cbf1c11f-cecc-46da-bb8c-353521b06c30_3200x.jpg?v=1629922986",
+      "material": "Polyester",
+      "date": "17.08.2021",
+      "id": 44
+    },
+    {
+      "title": "Deep Pile Sweatpant",
+      "type": "Sweatpants",
+      "color": "Green",
+      "description": "• Green fleece sweatpant • Elasticized waistband • Flat braided drawstrings • Single welt pockets with hidden coil zippers on front and back • Paracord puller on back • 100% Polyester • Machine wash • Made in China",
+      "price": "21850",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/FW21CP0021_3200x.jpg?v=1630091743",
+      "material": "Polyester",
+      "date": "23.09.2021",
+      "id": 45
+    },
+    {
+      "title": "Deep Pile Sweatpant",
+      "type": "Sweatpants",
+      "color": "Black",
+      "description": "• Black fleece sweatpant • Elasticized waistband • Flat braided drawstrings • Single welt pockets with hidden coil zippers on front and back • Paracord puller on back • 100% Polyester • Machine wash • Made in China",
+      "price": "21850",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/FW21CP0022_3200x.jpg?v=1630092590",
+      "material": "Polyester",
+      "date": "23.09.2021",
+      "id": 46
+    },
+    {
+      "title": "Deep Pile Sweatpant",
+      "type": "Sweatpants",
+      "color": "Purple",
+      "description": "• Purple fleece sweatpant • Elasticized waistband • Flat braided drawstrings • Single welt pockets with hidden coil zippers on front and back • Paracord puller on back • 100% Polyester • Machine wash • Made in China",
+      "price": "21850",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/FW21CP0023_3200x.jpg?v=1629858886",
+      "material": "Polyester",
+      "date": "23.09.2021",
+      "id": 47
+    },
+    {
+      "title": "ALD Uniform Sweatpants",
+      "type": "Sweatpants",
+      "color": "Green",
+      "description": "• Green sweatpants • 20oz French Terry fabric • Embroidered block logo • Flat braided drawstrings with thread eyelets • Elasticized waistband & leg openings • Two single pleat pockets at front • Two patch pockets at back • 100% Cotton • Machine wash • Made in Canada",
+      "price": "16200",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/AimeLeonDore6138e3b11152a26138e3b111797.811153186138e3b111797_3200x.jpg?v=1631808188",
+      "material": "Cotton",
+      "date": "19.09.2021",
+      "id": 48
+    },
+    {
+      "title": "ALD Uniform Sweatpants",
+      "type": "Sweatpants",
+      "color": "Grey",
+      "description": "• Grey sweatpants • 20oz French Terry fabric • Embroidered block logo • Flat braided drawstrings with thread eyelets • Elasticized waistband & leg openings • Two single pleat pockets at front • Two patch pockets at back • 100% Cotton • Machine wash • Made in Canada",
+"price": "16200",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/AimeLeonDore6138e3b139f2086138e3b13a27f.837575106138e3b13a27f_3200x.jpg?v=1631808196",
+      "material": "Cotton",
+      "date": "19.09.2021",
+      "id": 49
+    },
+    {
+      "title": "ALD Uniform Sweatpants",
+      "type": "Sweatpants",
+      "color": "Black",
+      "description": "• Black sweatpants • 20oz French Terry fabric • Embroidered block logo • Flat braided drawstrings with thread eyelets • Elasticized waistband & leg openings • Two single pleat pockets at front • Two patch pockets at back • 100% Cotton • Machine wash • Made in Canada",
+      "price": "16200",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/AimeLeonDore6138e3b155ce016138e3b155f10.552063566138e3b155f10_3200x.jpg?v=1631118913",
+      "material": "Cotton",
+      "date": "19.09.2021",
+      "id": 50
+    },
+    {
+      "title": "ALD Uniform Sweatpants",
+      "type": "Sweatpants",
+      "color": "Oatmeal",
+      "description": "• Oatmeal sweatpants • 20oz French Terry fabric • Embroidered block logo • Flat braided drawstrings with thread eyelets • Elasticized waistband & leg openings • Two single pleat pockets at front • Two patch pockets at back • 100% Cotton • Machine wash • Made in Canada",
+      "price": "16200",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/AimeLeonDore6138e3b17547166138e3b175633.333441506138e3b175633_3200x.jpg?v=1631808210",
+      "material": "Cotton",
+      "date": "19.09.2021",
+      "id": 51
+    },
+    {
+      "title": "ALD Uniform Sweatpants",
+      "type": "Sweatpants",
+      "color": "Red",
+      "description": "• Red sweatpants • 20oz French Terry fabric • Embroidered block logo • Flat braided drawstrings with thread eyelets • Elasticized waistband & leg openings • Two single pleat pockets at front • Two patch pockets at back • 100% Cotton • Machine wash • Made in Canada",
+      "price": "16200",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/AimeLeonDore6138e3b193fb136138e3b1941a7.480667986138e3b1941a7_3200x.jpg?v=1631808217",
+      "material": "Cotton",
+      "date": "19.09.2021",
+      "id": 52
+    },
+    {
+      "title": "ALD Uniform Sweatpants",
+      "type": "Sweatpants",
+      "color": "Navy",
+      "description": "• Navy sweatpants • 20oz French Terry fabric • Embroidered block logo • Flat braided drawstrings with thread eyelets • Elasticized waistband & leg openings • Two single pleat pockets at front • Two patch pockets at back • 100% Cotton • Machine wash • Made in Canada",
+      "price": "16200",
+      "photo": "https://cdn.shopify.com/s/files/1/0302/7829/products/AimeLeonDore6138e3b1ab5a816138e3b1ab7f4.549755406138e3b1ab7f4_3200x.jpg?v=1631118925",
+      "material": "Cotton",
+      "date": "19.09.2021",
+      "id": 53
+    }
+
+
+  ]
 }
